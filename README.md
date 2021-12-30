@@ -1,2 +1,2 @@
-# -ImageRepo
+# ImageRepo
 图床
