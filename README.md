@@ -1,2 +1,2 @@
-# ImageRepo
+# IMG-Cloud
 图床
